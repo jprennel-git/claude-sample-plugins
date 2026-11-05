@@ -1,0 +1,9 @@
+{
+  "name": "sample-plugins",
+  "owner": { "name": "Sample Author" },
+  "plugins": [
+    { "name": "writing-toolkit", "source": "./writing-toolkit", "description": "Simple skills for everyday writing tasks." },
+    { "name": "meeting-helper", "source": "./meeting-helper", "description": "Skills that cover the life of a meeting." },
+    { "name": "code-helper", "source": "./code-helper", "description": "Lightweight skills for working with code." }
+  ]
+}
